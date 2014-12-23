@@ -1,3 +1,7 @@
+// structura -  simple application to allow composition of a document as labelled paragraphs that can be easily rearranged
+//              and placed into a tree structure to help organise ideas
+// project initiated by Loki Verloren <loki.verloren@gmail.com>
+
 package main
 
 import (
