@@ -1,0 +1,17 @@
+{
+    "name": "com.ubuntu.agora.loki.structura",
+    "description": "description of structura",
+    "architecture": "all",
+    "title": "structura",
+    "hooks": {
+        "structura": {
+            "apparmor": "structura.apparmor",
+            "desktop":  "structura.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Loki Verloren <loki.verloren@gmail.com>",
+    "framework" : "ubuntu-sdk-14.04-qml"
+}
+
+
